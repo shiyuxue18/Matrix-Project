@@ -77,3 +77,6 @@ These files are used related to firebase cloud messaging, firebase cloud functio
 |Firebase Cloud Messaging|MyFirebaseInstanceIDService.java|Get token from FCM|
 ||MyFirebaseMessagingService.java|Main Receiver of Firebase Cloud Messaging|
 ||CustomApplication|Help to register Firebase Cloud Messaging token when application boots|
+
+## demo
+https://drive.google.com/file/d/1GQQoBUdf1IQhT6Epr4d0Dy5j4lZ2plSO/view
